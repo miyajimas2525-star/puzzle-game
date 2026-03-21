@@ -244,6 +244,7 @@ undoBtn.addEventListener('click', function(){
   undo();
 });
 function reset(){
+  history = [];
   data=JSON.parse(JSON.stringify(master_data));
   data2=JSON.parse(JSON.stringify(master_data2)) ;
   px=3; // 主人公x座標
