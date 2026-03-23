@@ -2,7 +2,7 @@
 
 1つの方向キー入力（←↑→↓）で、2つの異なるマップにいるキャラクターを同時に動かし、両方のステージを同時にクリアするパズルゲームです。
 
-公開URL
+公開URL（GitHub Pages）
 https://miyajimas.github.io/puzzle-game/
 
 この作品のポイント（技術的工夫）
